@@ -1,0 +1,3 @@
+[console_scripts]
+gps_serial_node = gps_driver.gps_serial_node:main
+
